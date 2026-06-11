@@ -167,3 +167,7 @@ uv run ruff format .   # format
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+*`agentrel` is part of a statistical-rigor-for-AI-evals toolkit: [deltagate](https://github.com/yongzhe2160cs/eval-reliability) (paired-delta validation for eval comparisons), [calibstats](https://github.com/yongzhe2160cs/calibration-toolkit) (calibration metrics with confidence intervals), [leaderboard-ci](https://github.com/yongzhe2160cs/leaderboard-reliability) (leaderboard re-ranking with CIs and tie bands). Full portfolio: [github.com/yongzhe2160cs](https://github.com/yongzhe2160cs).*
